@@ -6,4 +6,4 @@
 
 2. KthSmallest : This program helps us to find Kth smallest element.
 
-3. Max_Min : This Program show the smallest and greatest element in arry.
+3. Max_Min : This Program show the smallest and greatest element in array.
