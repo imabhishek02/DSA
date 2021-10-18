@@ -10,9 +10,9 @@ int main() {
         double dpf=0;
         dpf = items[i]- (items[i]*(pf/100));
         cout<<dpf<<" ";
-        
+
     }
-    
-    
+
+
     return 0;
 }
