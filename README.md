@@ -15,3 +15,6 @@
 6. Ticket Office : This program show the price of Ticket after maximum discout for group of 5 people.
 
 7. Key_Search : This program will search for specified key in array.
+
+8. Tower_of_Hanoi : We have 3 block in 1st rod and other 2 rod are empty move all the blocks in rod 3 such that bigger block always 
+                    stays in bottom.
