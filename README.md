@@ -19,9 +19,11 @@
 8. Tower_of_Hanoi : We have 3 block in 1st rod and other 2 rod are empty move all the blocks in rod 3 such that bigger block always 
                     stays in bottom;
 
-9. ########################################################--LINKLIST--###############################################################
+9. ###########--LINKLIST--###########
 
 (i).   First program of linklist consist of code that give us output - normal linklist after calling fucntion;
+
 (ii).  In next program i have used both normal and recursive function to reverse linklist;
+
 (iii). Third program consist of fucntion to make cycle linklist, detectection of cycle linklist and then finally 
        how we remove a cycle linklist;
