@@ -26,4 +26,4 @@
 (ii).  In next program i have used both normal and recursive function to reverse linklist;
 
 (iii). Third program consist of fucntion to make cycle linklist, detectection of cycle linklist and then finally 
-       how we remove a cycle linklist;
+         how we remove a cycle linklist;
