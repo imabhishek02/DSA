@@ -28,4 +28,4 @@
 (iii). Third program consist of fucntion to make cycle linklist, detectection of cycle linklist and then finally 
          how we remove a cycle linklist;
 
-(iv). Append k nodes in linklist will be updated soon;        
+       
