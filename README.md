@@ -28,4 +28,6 @@
 (iii). Third program consist of fucntion to make cycle linklist, detectection of cycle linklist and then finally 
          how we remove a cycle linklist;
 
-       
+10. Doubly linklist- program to build doubly linklist, how to delete in doublylist and how insert in
+
+    are programmed in details;   
