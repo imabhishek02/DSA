@@ -35,3 +35,5 @@
 (v). program to append K nodes in linklist;
 
 (vi). Program to verify two linklist is intersecting or not ;
+
+(vii). program to merge the sorted linklist.
