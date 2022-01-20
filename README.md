@@ -37,3 +37,5 @@
 (vi). Program to verify two linklist is intersecting or not ;
 
 (vii). program to merge the sorted linklist.
+
+########################-STACK and QUEUE-#############################
