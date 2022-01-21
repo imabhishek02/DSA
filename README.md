@@ -39,3 +39,5 @@
 (vii). program to merge the sorted linklist.
 
 ########################-STACK and QUEUE-#############################
+
+top() and POP()
