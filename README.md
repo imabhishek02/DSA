@@ -19,7 +19,7 @@
 8. Tower_of_Hanoi : We have 3 block in 1st rod and other 2 rod are empty move all the blocks in rod 3 such that bigger block always 
                     stays in bottom;
 
-9. ###########--LINKLIST--###########
+9. ###########--LINKLIST--#########
 
 (i).   First program of linklist consist of code that give us output - normal linklist after calling fucntion;
 
@@ -40,4 +40,4 @@
 
 ########################-STACK and QUEUE-#############################
 
-top() and POP()
+top() and POP() push()
