@@ -40,4 +40,4 @@
 
 ########################-STACK and QUEUE-#############################
 
-top() and POP() push() Lazy phase is going-----
+top() and POP() push() 
