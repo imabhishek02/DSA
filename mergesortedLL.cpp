@@ -74,7 +74,6 @@ int main(){
     insertattail(head2,7);
    display(head1);
    display(head2);
-    //mergek(head1,head2);
     node* newhead=mergek(head1,head2);
     display(newhead);
     

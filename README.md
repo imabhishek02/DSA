@@ -38,6 +38,10 @@
 
 (vii). program to merge the sorted linklist.
 
+(viii).  program to merge the linklist using recursion.
+
+(ix). Circular linklist program.
+
 ########################-STACK and QUEUE-#############################
 
-top() and POP() push() 
+10. 
