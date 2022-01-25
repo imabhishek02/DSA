@@ -36,12 +36,12 @@
 
 (vi). Program to verify two linklist is intersecting or not ;
 
-(vii). program to merge the sorted linklist.
+(vii). program to merge the sorted linklist;
 
-(viii).  program to merge the linklist using recursion.
+(viii).  program to merge the linklist using recursion;
 
-(ix). Circular linklist program.
+(ix). Circular linklist program;
 
 ########################-STACK and QUEUE-#############################
 
-10. 
+10. Reversed the sentence using stack;
