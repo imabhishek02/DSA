@@ -45,3 +45,5 @@
 ########################-STACK and QUEUE-#############################
 
 10. Reversed the sentence using stack;
+    
+    infix to prefix and postfix
