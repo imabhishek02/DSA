@@ -46,4 +46,6 @@
 
 10. Reversed the sentence using stack;
     
-    infix to prefix and postfix
+   (i). infix to prefix and postfix
+
+   (ii). implementaion of queue using array.
