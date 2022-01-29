@@ -49,3 +49,5 @@
    (i). infix to prefix and postfix
 
    (ii). implementaion of queue using array.
+
+   (iii). implementation of stack using queue;
